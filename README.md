@@ -17,3 +17,6 @@ Lab session:
 Tuesday 4-6 PM
 
 ![Octocat Image](http://octodex.github.com/images/twenty-percent-cooler-octocat.png)
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
